@@ -1,0 +1,23 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "**1.koa2:2018年推出的新版本：**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a982338665/node-koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a982338665/node-koa/issues"
+  },
+  "homepage": "https://github.com/a982338665/node-koa#readme",
+  "dependencies": {
+    "co": "latest",
+    "node-fetch": "^2.6.0"
+  }
+}
