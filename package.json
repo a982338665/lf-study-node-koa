@@ -18,6 +18,6 @@
   "homepage": "https://github.com/a982338665/node-koa#readme",
   "dependencies": {
     "co": "latest",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
